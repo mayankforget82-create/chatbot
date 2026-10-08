@@ -1,0 +1,9 @@
+a=5
+b=4
+print("addition",a+b)
+print("subtraction",a-b)
+print("multiply",a*b)
+print("floordivision",a/b)
+print("floatdivision",a//b)
+print("modulus",a%b)
+print("power",a**b)
